@@ -1,0 +1,7 @@
+{
+    "extends": "google",
+    "rules": {
+        "camelcase": "OFF",
+        "no-var": "OFF"
+    }
+}
